@@ -98,6 +98,7 @@ margin-top: -40px;
   }
   .nav-bar{
     flex-direction: column;
+    gap: 10px;
   }
 .anchors{
   margin-top: -10px;
@@ -114,19 +115,19 @@ margin-top: -40px;
   margin-bottom: 60px;
 }
 .description{
-  font-size: 1.2rem;
+  font-size: 1rem;
   text-align: center;
   padding: 10px;
 }
 .background{
- height: 885px;
+ height: 840px;
 }
 .explore-btn{
   font-size: 1rem;
   width: 160px;
   height: 60px;
   border-radius: 8px;
-  margin-top: 32px;
+  margin-top: 15px;
   margin-bottom: 50px;
 }
 }
